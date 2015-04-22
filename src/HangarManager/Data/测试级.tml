@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<CheckList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Name>测试级</Name>
+    <List>
+        <CheckItem>
+            <Name>800mm频射火炮 II</Name>
+            <Limit>7</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>萨沙爱国者重型能量中和器</Name>
+            <Limit>1</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>自适应全能力场 II</Name>
+            <Limit>1</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>重型电容注电器 II</Name>
+            <Limit>1</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>主天使跃迁扰断器</Name>
+            <Limit>1</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>皮特超大型护盾回充增量器 A型</Name>
+            <Limit>1</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>吉斯特100MN微型跃迁推进器 A型</Name>
+            <Limit>1</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>内部力场阵列 I</Name>
+            <Limit>1</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>纳米纤维内部构架 II</Name>
+            <Limit>2</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>共和舰队回转稳定器</Name>
+            <Limit>2</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>索敌增强器 II</Name>
+            <Limit>2</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>大型抗热能屏障强化器 II</Name>
+            <Limit>1</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>大型抗电磁屏障强化器 II</Name>
+            <Limit>2</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>共和舰队定相等离子弹 L</Name>
+            <Limit>2529</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>共和舰队聚变弹 L</Name>
+            <Limit>4768</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>共和舰队电磁脉冲弹 L</Name>
+            <Limit>4930</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>武士 II</Name>
+            <Limit>5</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>金星EC-600</Name>
+            <Limit>5</Limit>
+        </CheckItem>
+        <CheckItem>
+            <Name>渗透者EV-600</Name>
+            <Limit>5</Limit>
+        </CheckItem>
+    </List>
+</CheckList>

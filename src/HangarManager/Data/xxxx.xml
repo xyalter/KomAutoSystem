@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="Saint Gloriana的维拉托尔号">
+			<description value=""/>
+			<shipType value="维拉托尔号"/>
+			<hardware slot="hi slot 0" type="民用轻型电子疾速炮"/>
+			<hardware slot="hi slot 1" type="民用采矿器"/>
+		</fitting>
+	</fittings>
